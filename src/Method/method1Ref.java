@@ -7,6 +7,8 @@ public class method1Ref {
 
         System.out.println(sum);
         System.out.println(sum2);
+
+        add(10,10);
     }
     public static int add(int a, int b){
         int sum = a + b;
